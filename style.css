@@ -1,0 +1,9 @@
+:root{
+    --cor-de-fundo: #edecee
+}
+body{
+    blackgroundcolor: var(--cor-de-fundo)
+}
+h1{
+    blackground-color: black
+}
